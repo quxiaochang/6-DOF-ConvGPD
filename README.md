@@ -6,8 +6,9 @@
 方法优化这些候选; 然后, 利用可直接处理点云的卷积神经网络ConvPoint评估样本, 得分最高的抓取将被执行, 其
 中抓取位姿采样和评估网络都是以原始点云作为输入; 最后, 利用仿真和实际抓取实验进行测试. 结果表明, 该方法在常用对象上实现了88.33%的抓取成功率, 并可以有效地拓展到抓取其他形状的未知物体.
 
-## 流程
-![](pictures/单物体抓取实验.jpg)
+## 示意图
+- ![流程](https://github.com/quxiaochang/6-DOF-ConvGPD/blob/master/pictures/%E5%8D%95%E7%89%A9%E4%BD%93%E6%8A%93%E5%8F%96%E5%AE%9E%E9%AA%8C.jpg)
+- ![单目标抓取](https://github.com/quxiaochang/6-DOF-ConvGPD/blob/master/pictures/%E5%8D%95%E7%89%A9%E4%BD%93%E6%8A%93%E5%8F%96%E5%AE%9E%E9%AA%8C.jpg)
 ## 依赖
 - PCL 1.8 或以上
 - Libtorch(与安装的Pytorch版本保持一致)
