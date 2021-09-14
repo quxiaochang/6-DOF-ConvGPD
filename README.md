@@ -10,7 +10,7 @@
 - PCL 1.8 或以上
 - Libtorch(与安装的Pytorch版本保持一致)
 
-## Acknowledgement
+## 致谢
 - [gpg](https://github.com/atenpas/gpg)
 - [gpd](https://github.com/atenpas/gpd)
 - [PointNetGPD](https://github.com/lianghongzhuo/PointNetGPD)
