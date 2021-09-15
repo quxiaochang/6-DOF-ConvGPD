@@ -7,11 +7,16 @@
 中抓取位姿采样和评估网络都是以原始点云作为输入; 最后, 利用仿真和实际抓取实验进行测试. 结果表明, 该方法在常用对象上实现了88.33%的抓取成功率, 并可以有效地拓展到抓取其他形状的未知物体.
 
 ## 示意图
-- ![流程](https://github.com/quxiaochang/6-DOF-ConvGPD/blob/master/pictures/%E6%8A%93%E5%8F%96%E6%A3%80%E6%B5%8B%E7%AE%97%E6%B3%95%E6%B5%81%E7%A8%8B.jpg )
-- ![单目标抓取](https://github.com/quxiaochang/6-DOF-ConvGPD/blob/master/pictures/%E5%8D%95%E7%89%A9%E4%BD%93%E6%8A%93%E5%8F%96%E5%AE%9E%E9%AA%8C.jpg )
-- <p align="center">
-  <img src="pictures/单物体抓取实验.jpg" width="95%" height="320">
+* 方法流程
+<p align="center">
+<img src="pictures/抓取检测算法流程.jpg" width="95%" height="320">
 </p>
+
+* 实验结果
+<p align="center">
+<img src="pictures/单物体抓取实验.jpg" width="95%" height="320">
+</p>
+
 ## 依赖
 - PCL 1.8 或以上
 - Libtorch(与安装的Pytorch版本保持一致)
