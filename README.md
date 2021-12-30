@@ -9,12 +9,12 @@
 ## 示意图
 * 方法流程
 <p align="center">
-<img src="pictures/抓取检测算法流程.svg" width="80%">
+<img src="pictures/抓取检测算法流程.png" width="80%">
 </p>
 
 * 实验结果
 <p align="center">
-<img src="pictures/单物体抓取实验.jpg" width="40%">
+<img src="pictures/单物体抓取实验.png" width="40%">
 </p>
 
 ## 依赖
