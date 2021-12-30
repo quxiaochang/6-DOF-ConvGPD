@@ -9,7 +9,7 @@
 ## 示意图
 * 方法流程
 <p align="center">
-<img src="pictures/抓取检测算法流程.jpg" width="80%">
+<img src="pictures/抓取检测算法流程.svg" width="80%">
 </p>
 
 * 实验结果
