@@ -12,10 +12,19 @@
 <img src="pictures/抓取检测算法流程.png" width="80%">
 </p>
 
-* 实验结果
+* 单物体抓取实验结果
 <p align="center">
 <img src="pictures/单物体抓取实验.png" width="40%">
 </p>
+
+* 多物体抓取实验结果
+<p align="center">
+<img src="pictures/多物体抓取实验.png" width="40%">
+</p>
+
+## 视频
+
+[![Video for 6-DOF-ConvGPD](pictures/单物体抓取实验.png)](https://www.bilibili.com/video/bv16S4y1M78M)
 
 ## 依赖
 - PCL 1.8 或以上
