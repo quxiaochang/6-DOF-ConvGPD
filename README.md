@@ -26,6 +26,7 @@
 ## 依赖
 - PCL 1.8 或以上
 - Libtorch(与安装的Pytorch版本保持一致)
+- python 3.8
 
 ## 致谢
 - [gpg](https://github.com/atenpas/gpg)
